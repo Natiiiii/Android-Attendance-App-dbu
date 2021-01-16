@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/AndroidStudioProjects/Android-Attendance-App-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am-rET/values-am-rET.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/AndroidStudioProjects/Android-Attendance-App-master/app/src/main/res/values-am-rET/strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "118,55,189",
+                        "endColumns": "70,62,47",
+                        "endOffsets": "184,113,232"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,126,189",
+                        "endColumns": "70,62,47",
+                        "endOffsets": "121,184,232"
+                    }
+                }
+            ]
+        }
+    ]
+}
