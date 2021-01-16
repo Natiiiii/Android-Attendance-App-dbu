@@ -66,7 +66,7 @@ class then register the number of subjects in that class and can mark the attend
 * View Attendance : Here, teacher can view student attendance by course wise and by selecting specific student by His/her Name. 
 * Change Password:  If teacher want to change their current password then here Hi/She will achieve that.
 
-<h3 id="requirement" class="notes">Software Requirement</h3>
+
 
 <h3>Admin Login</h3>
 <ul>
