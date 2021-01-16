@@ -1,9 +1,14 @@
 # Android-Attendance-App
-First Header | Second Header|First Header |
------------- | -------------
-Content from cell 1 | Content from cell 2
+
 Content in the first column | Content in the second column
 android developer, Java, Android Studio, Xml ·
+# Group memebers
+ 
+ First Header | Second Header | First Header 
+------------ | ------------- | -------------
+ 
+ 
+ 
 ## about app
 It is a system developed in android studio through which
 faculty can register the number of students in a particular
