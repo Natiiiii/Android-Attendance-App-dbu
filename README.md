@@ -33,28 +33,19 @@ class then register the number of subjects in that class and can mark the attend
 ### Features Available
 <h3>Admin Module</h3>
 <ul>
- 	<li>Add Student.</li>
- 	<li>Add Faculty.</li>
- 	<li>View Student.</li>
- 	<li>View Teacher.</li>
- 	<li>View Student Attendance.</li>
+<li> Login : Need to enter login credentials into web interface by the admin or the authorized person.<li>
+ 	<li>Add Student:   Can add new student into the system or modify the existing student detail’s.</li>
+ 	<li>Add Faculty: Can add new faculty into the system or modify the existing faculty’s Detail.</li>
+ 	<li>View Student: can view student added</li>
+ 	<li>View faculty: can view faculty added</li>
+ 	<li>View Student Attendance: can view student attendance</li>
  	<li>View each student’s attendance separately</li>
 </ul>
-
-* 	Login : Need to enter login credentials into web interface by the admin or the authorized person.
-* Add/Modify Student:  Can add new student into the system or modify the existing student detail’s.
-
-* Add/Faculty: Can add new faculty into the system or modify the existing faculty’s Detail.
-
-* Add/Teacher:  Can add new teacher into system,
-* View  Student Attendance : Here, admin can view student attendance wise and by selecting specific student by His/her Name.
-
 <h3>Teacher Module</h3>
 <ul>
- 	<li>Take attendance and keep them class wise</li>
- 	<li>Add New student. View each student’s attendance separately</li>
+ 	<li>Take attendance and keep them class wise: take student attendance , get student from admin</li>
  	<li>Edit Student/Attendance later</li>
- 	<li>Save notes subject wise</li>
+<li> Login : Need to enter login credentials into web interface by the admin or the authorized person.<li>
  	<li>Simple  designed interface</li>
 </ul>
 
@@ -88,8 +79,8 @@ class then register the number of subjects in that class and can mark the attend
 ### View Student
 ![image](https://user-images.githubusercontent.com/34947939/104813688-d53f7880-581b-11eb-9efc-4275ebe9d444.png)
 
-### Add Faculty
-![image](https://user-images.githubusercontent.com/34947939/104813627-62ce9880-581b-11eb-856f-6ad9c1f1172f.png)
+### Add Faculty![image]
+(https://user-images.githubusercontent.com/34947939/104813822-a07ff100-581c-11eb-8e87-d93a1377f1bd.png)
 
 ### view Faculty
 ![image](https://user-images.githubusercontent.com/34947939/104813742-28193000-581c-11eb-9003-b46e83e3e4aa.png)
