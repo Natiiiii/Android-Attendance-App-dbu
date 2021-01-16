@@ -84,10 +84,12 @@ class then register the number of subjects in that class and can mark the attend
 ### view Faculty
 ![image](https://user-images.githubusercontent.com/34947939/104813742-28193000-581c-11eb-9003-b46e83e3e4aa.png)
  ## faculty
+ ## login
+ ![image](https://user-images.githubusercontent.com/34947939/104814131-441dd100-581e-11eb-95d7-ac1b09f97e4d.png)
+
  ## home page
  ![image](https://user-images.githubusercontent.com/34947939/104814023-b641e600-581d-11eb-8467-36c88576bf8f.png)
- ### login
- ![image](https://user-images.githubusercontent.com/34947939/104813968-6c590000-581d-11eb-959e-8d0341449b8d.png)
+
  ### take attendances
  
 ![image](https://user-images.githubusercontent.com/34947939/104814043-d376b480-581d-11eb-8cac-cb54a1295170.png)
