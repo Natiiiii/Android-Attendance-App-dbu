@@ -7,7 +7,7 @@ android developer, Java, Android Studio, Xml ·
  Name | ID | Responsibiltys
 ------------ | ------------- | -------------
 Natnael Asefa.   | 1282    | Group coordinator,coding
-Abubeker Ahmed   |    1103 |codding
+Abubeker Ahmed   |    1103 |codding,Testing
 Hussen Kassaw    |  1226   |codding
 Kirubel Tibebu.  |  1236   |codding
 Moges Demse.     | 1661    |readme
