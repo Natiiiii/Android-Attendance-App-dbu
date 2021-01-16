@@ -1,4 +1,4 @@
-# Android-Attendance-App
+# Android-Attendance-Application
 
 Content in the first column | Content in the second column
 android developer, Java, Android Studio, Xml ·
@@ -10,7 +10,7 @@ android developer, Java, Android Studio, Xml ·
  
  ## problem of statment
  
-## about app
+## about The app
 It is a system developed in android studio through which
 faculty can register the number of students in a particular
 class then register the number of subjects in that class and can mark the attendance of the students.
