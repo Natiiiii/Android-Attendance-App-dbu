@@ -35,7 +35,6 @@ class then register the number of subjects in that class and can mark the attend
 <ul>
  	<li>Add Student.</li>
  	<li>Add Faculty.</li>
- 	<li>Add Teacher.</li>
  	<li>View Student.</li>
  	<li>View Teacher.</li>
  	<li>View Student Attendance.</li>
@@ -73,7 +72,20 @@ class then register the number of subjects in that class and can mark the attend
  	<li>Username :-admin</li>
  	<li>Password :-admin123</li>
  
- ### screnshot of UI
-<h>Welcome page</h1>
+ #screnshot of UI
+ ## Welcome page
 ![wellcome](https://user-images.githubusercontent.com/34947939/104813542-d15f2680-581a-11eb-8b80-362febe5b948.jpg)
-
+##ADMIN
+* admin login
+![image](https://user-images.githubusercontent.com/34947939/104813627-62ce9880-581b-11eb-856f-6ad9c1f1172f.png)
+ 
+ *Admin Activity
+ ![image](https://user-images.githubusercontent.com/34947939/104813642-7f6ad080-581b-11eb-89e4-879a9f4ae7a0.png)
+* Add student
+![image](https://user-images.githubusercontent.com/34947939/104813669-b04b0580-581b-11eb-81d5-2c27935b9394.png)
+* View Student
+![image](https://user-images.githubusercontent.com/34947939/104813688-d53f7880-581b-11eb-9efc-4275ebe9d444.png)
+*>Add Faculty
+![image](https://user-images.githubusercontent.com/34947939/104813627-62ce9880-581b-11eb-856f-6ad9c1f1172f.png)
+* view Faculty
+![image](https://user-images.githubusercontent.com/34947939/104813742-28193000-581c-11eb-9003-b46e83e3e4aa.png)
