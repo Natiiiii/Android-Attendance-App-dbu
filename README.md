@@ -72,4 +72,8 @@ class then register the number of subjects in that class and can mark the attend
 <ul>
  	<li>Username :-admin</li>
  	<li>Password :-admin123</li>
+ 
+ ### screnshot of UI
+<h>Welcome page</h1>
+![wellcome](https://user-images.githubusercontent.com/34947939/104813542-d15f2680-581a-11eb-8b80-362febe5b948.jpg)
 
