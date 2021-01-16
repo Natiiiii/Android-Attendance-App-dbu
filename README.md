@@ -4,7 +4,7 @@ Content in the first column | Content in the second column
 android developer, Java, Android Studio, Xml ·
 # Group memebers
  
- First Header | Second Header | First Header 
+ Name | ID | Responsibilty
 ------------ | ------------- | -------------
  
  
