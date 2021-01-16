@@ -8,6 +8,7 @@ android developer, Java, Android Studio, Xml ·
 ------------ | ------------- | -------------
  
  
+ ## problem of statment
  
 ## about app
 It is a system developed in android studio through which
@@ -25,6 +26,15 @@ class then register the number of subjects in that class and can mark the attend
  	<li>View Student Attendance.</li>
  	<li>View each student’s attendance separately</li>
 </ul>
+
+* 	Login : Need to enter login credentials into web interface by the admin or the authorized person.
+* Add/Modify Student:  Can add new student into the system or modify the existing student detail’s.
+
+* Add/Faculty: Can add new faculty into the system or modify the existing faculty’s Detail.
+
+* Add/Teacher:  Can add new teacher into system,
+* View  Student Attendance : Here, admin can view student attendance wise and by selecting specific student by His/her Name.
+
 <h3>Teacher Module</h3>
 <ul>
  	<li>Take attendance and keep them class wise</li>
@@ -33,13 +43,16 @@ class then register the number of subjects in that class and can mark the attend
  	<li>Save notes subject wise</li>
  	<li>Simple  designed interface</li>
 </ul>
+
+* Login : Need to enter login credentials into system by the admin or the authorized person.
+*Add new student: here, teacher can add student.
+* View Student attendance : here, teacher can see student list by just selecting the course.
+* 	Take Attendance : Here, teacher can see first all course list option then by selecting the specific course teacher can take attendance.
+* View Attendance : Here, teacher can view student attendance by course wise and by selecting specific student by His/her Name. 
+* Change Password:  If teacher want to change their current password then here Hi/She will achieve that.
+
 <h3 id="requirement" class="notes">Software Requirement</h3>
-<ul>
- 	<li>Android Studio</li>
- 	<li>Latest Version</li>
- 	<li>Internet Connection</li>
- 	<li>Java</li>
-</ul>
+
 <h3>Admin Login</h3>
 <ul>
  	<li>Username :-admin</li>
