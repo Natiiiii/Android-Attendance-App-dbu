@@ -4,11 +4,11 @@ Content in the first column | Content in the second column
 android developer, Java, Android Studio, Xml ·
 # Group memebers
  
- Name | ID | Responsibilty
+ Name | ID | Responsibiltys
 ------------ | ------------- | -------------
 Natnael Asefa.   | 1282    | Group coordinator,coding
-Hussen Kassaw    |  1226   |codding
 Abubeker Ahmed   |    1103 |codding
+Hussen Kassaw    |  1226   |codding
 Kirubel Tibebu.  |  1236   |codding
 Moges Demse.     | 1661    |readme
 Dagmawit Ayele   | 1161    | Testing
