@@ -79,8 +79,22 @@ class then register the number of subjects in that class and can mark the attend
 ### View Student
 ![image](https://user-images.githubusercontent.com/34947939/104813688-d53f7880-581b-11eb-9efc-4275ebe9d444.png)
 
-### Add Faculty![image]
-(https://user-images.githubusercontent.com/34947939/104813822-a07ff100-581c-11eb-8e87-d93a1377f1bd.png)
-
+### Add Faculty
+![image](https://user-images.githubusercontent.com/34947939/104813822-a07ff100-581c-11eb-8e87-d93a1377f1bd.png)
 ### view Faculty
 ![image](https://user-images.githubusercontent.com/34947939/104813742-28193000-581c-11eb-9003-b46e83e3e4aa.png)
+ ## faculty
+ ## home page
+ ![image](https://user-images.githubusercontent.com/34947939/104814023-b641e600-581d-11eb-8467-36c88576bf8f.png)
+ ### login
+ ![image](https://user-images.githubusercontent.com/34947939/104813968-6c590000-581d-11eb-959e-8d0341449b8d.png)
+ ### take attendances
+ 
+![image](https://user-images.githubusercontent.com/34947939/104814043-d376b480-581d-11eb-8cac-cb54a1295170.png)
+### view attendance
+
+![image](https://user-images.githubusercontent.com/34947939/104814062-f5703700-581d-11eb-81ff-8b6ba59c639c.png)
+
+### view over all attendances
+![image](https://user-images.githubusercontent.com/34947939/104814095-0f117e80-581e-11eb-8616-0b02166fa084.png)
+
