@@ -9,6 +9,14 @@ android developer, Java, Android Studio, Xml ·
  
  
  ## problem of statment
+ Problem Statement:
+
+Attendance Management System is software developed for daily student attendance in colleges. It facilitates to access the attendance information of a particular student in a particular class. This system will also help in evaluating attendance eligibility criteria of a student. By just a click on the mouse, the system will be able to produce the students' attendance report thus reducing the need for manual labour which is prone to human errors and time consuming.
+
+
+
+As of today, attendance’s record system  is done manually during the collage’s assembly each morning. Teachers take attendance of his/her own class, attend the assembly and then pass the attendance records to the clerks at school’s office after the assembly ended. There is some problem arise when too many documents handed to the clerks at once. Missing, uncheck records are just some of them. With all most our class students, a lot of 2 papers are involved which lead to messy desks. Through this system, it can help to promote paperless office which not only lessen the messiness but also save money and time, improve productivity, make documentation easier, secure personal information and most importantly it can help the environment. Other than problem involving record’s management, this system can help in decreasing student’s truancy.as dbu software department, administration only informs for the staff the about student’s absenteeism when it occurred too frequently or consecutively for 3 days. Department administration cannot afford to report each student’s truancy as there is not yet a system that can do so cheaply and effectively. 
+
  
 ## about The app
 It is a system developed in android studio through which
