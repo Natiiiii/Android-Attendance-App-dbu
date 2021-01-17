@@ -55,8 +55,6 @@ class then register the number of subjects in that class and can mark the attend
 <li> Login : Need to enter login credentials into web interface by the admin or the authorized person.</li>
  	<li>Simple  designed interface</li>
 </ul>
-
-* Login : Need to enter login credentials into system by the admin or the authorized person.
 * Add new student: here, teacher can add student.
 * View Student attendance : here, teacher can see student list by just selecting the course.
 * 	Take Attendance : Here, teacher can see first all course list option then by selecting the specific course teacher can take attendance.
