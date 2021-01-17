@@ -38,7 +38,7 @@ class then register the number of subjects in that class and can mark the attend
 <h3>Admin Module</h3>
 
 <ul>
-<li> Login : Need to enter login credentials into web interface by the admin or the authorized person.<li>
+<li> Login : Need to enter login credentials into web interface by the admin or the authorized person.</li>
  	<li>Add Student:   Can add new student into the system or modify the existing student detail’s.</li>
  	<li>Add Faculty: Can add new faculty into the system or modify the existing faculty’s Detail.</li>
  	<li>View Student: can view student added</li>
