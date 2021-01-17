@@ -20,7 +20,7 @@ Dagmawit Ayele   | 1161    | Testing
  
  <b> Problem Statement: </b>
 
-Attendance Management System is software developed for daily student attendance in colleges. It facilitates to access the attendance information of a particular student in a particular class. This system will also help in evaluating attendance eligibility criteria of a student. By just a click on the mouse, the system will be able to produce the students' attendance report thus reducing the need for manual labour which is prone to human errors and time consuming.
+Attendance Management System is a software developed for daily student attendance in colleges. It facilitates to access the attendance information of a particular student in a particular class. This system will also help in evaluating attendance eligibility criteria of a student. By just a click on the mouse, the system will be able to produce the students' attendance report thus reducing the need for manual labour which is prone to human errors and time consuming.
 
 
 
