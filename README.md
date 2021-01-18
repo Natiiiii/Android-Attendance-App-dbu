@@ -5,7 +5,7 @@ android developer, Java, Android Studio, Xml ·
 
 # Group memebers
  
- Name | ID | Responsibiltys
+ Name | ID | Responsibilitys
 ------------ | ------------- | -------------
 Natnael Asefa.   | 1282    | Group coordinator,coding
 Abubeker Ahmed   |    1103 |codding,Testing
